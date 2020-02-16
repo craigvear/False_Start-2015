@@ -8,7 +8,7 @@ False Start was commissioned by the Icebreaker Ensemble.
 
 NOTE: These scores are based in software. Although they share many similar properties to that of paper based/traditional scoring methods, they also benefit from the usability and functionality of dynamic software environments. The visual information will be familiar to the musician and welcomed by a curious spirit of adventure. Above all, these scores are responsive, evolving as the performance progresses – giving the feeling of being alive – and should be considered as co-operative creative partners.
 
-IMPORTANT - 
+## IMPORTANT - 
 
 1) This score is based in Max/MSP. This must be downloaded and installed prior to operation.
 
@@ -16,12 +16,12 @@ IMPORTANT -
 
 
 
-# Craig Vear
-False Start For amplified ensemble and networked laptops
-(2015)
-Copyright Craig Vear 2015
+### Craig Vear
+### False Start For amplified ensemble and networked laptops
+### (2015)
+### Copyright Craig Vear 2015
 
-# About the piece
+## About the piece
 Commissioned by Icebreaker Ensemble
 First performance:
 Instrumentation:
@@ -32,14 +32,14 @@ Audiograft festival, Oxford, UK
 Small ensemble (2 to 5 players) with networked laptops (1 each)
 c. 14’30 minutes
 
-# Programme notes
+## Programme notes
 The title of this piece is borrowed from a Jasper Johns painting from 1959. Johns’ works have been a point of inspiration for many decades, due to his abstraction of found materials into artworks that are recognised and appreciated on their own merit. Like Johns' painting, this composition focuses on colour, and the blurred boundary of shape and meaning. It also focuses on play; as in the playful interaction of juxtaposed colour in space and time, and the playful transformation of found material. This reference to the ‘found’, and the ‘being’ of itself, is a central focus of this composition, and like Johns’ works the focus is not on the source materials but on the articulation of those through the artist’s abstraction into something else that is, at all times, the source, the process, the result and the interpretation.
 
-# Acknowledgements
+## Acknowledgements
 The composer expresses his sincere thanks to Jonathan Eato and Audrey Riley for giving permission to use recorded samples of their instruments as part of the interactive soundscape.
 Dedicated to Max (happy birthday)
 
-# Performers instructions
+## Performers instructions
 The composition is in three parts: A, B, A. The score is open to interpretation. The characteristic of part A is energetic and rhythmical (Sonic Youth meets Sun Ra). Part B is free from time (like drops of ink in an ocean of sound).
 The composition also includes an electroacoustic element. This is generative and will respond to the ensemble over time.
  
@@ -50,7 +50,7 @@ To start the piece the M.D. will click start on her laptop. This will start all 
 If an individual’s screen has not changed to play mode, then that player must click ‘start’ manually.
 Once the composition has been played through once, it is necessary to close it and reload for the next run through.
 
-# Approach
+## Approach
 1.1 The onscreen score is open to interpretation by each musician. It should contribute to your on-going understanding of the music, and your place within that flow. As such, you are free to make decisions about interpretation &c. as long as they are in the spirit of the piece.
 1.2 The on-screen score is not the total sum of the musical information that contributes to an interpretation of this composition. It needs to form part of an on-going, co-operative relationship between the humans and the computers; the visual materials and the aural sounds. As such, the scores invite interpretation and rely on the musicianship of the individual to complete the music.
 1.3 This interpretation should be playful (noun and verb), and meaningful to the individual.
@@ -67,12 +67,12 @@ AND
 2.4 In section B, the individual is free from all phraseology presented on screen. As such, they can choose singles notes out of sequence, hold quavers for many minutes, or sound an idea inspired by something on the screen (like drops of ink in an ocean of sound).
 2.5 Of paramount importance is that each musician enters into the spirit of the piece.
 
-# Technical setup (M.D. and drone apps)
+## Technical setup (M.D. and drone apps)
 1. Setup in a comfortable position. The screen of the laptop must be visible to the performer and at the correct height.
 2. Make sure each player has a laptop with the performance app on the desktop: one with MD version, others with drone (a separate laptop containing the rhythm part will be positioned near the sound mixing desk)
 3. Ensure each has enough battery life, screen saver is off, and notifications on silent
 
-# Setting up the network (all apps)
+## Setting up the network (all apps)
 The priority for network setup (1 desirable – 4 less desirable)
 1. LAN over dedicated wireless router
 2. LAN over dedicated Ethernet router
@@ -80,7 +80,7 @@ The priority for network setup (1 desirable – 4 less desirable)
 4. Internet network or hotspot (wireless or hardwire)
 If network communications fails across all laptops, partially fails on some, or has drop-outs, then continue without network functionality on those machines: the composition and the software apps are designed to work autonomously if this occurs. Although this situation is not desirable, a performance within this scenario is acceptable.
 
-# Technical setup (Rhythm app)
+## Technical setup (Rhythm app)
 The general mix is equal between musicians and this rhythm part.
 The internal microphone of the laptop is to remain active as it records the live sound for part B and A2 (it is set to off for part A1). The input level should never be hot: ideally it should remain 6-12 dB lower than the generative rhythm track. This should provide an abstract 'reverb' sound to the mix.
 It is possible to use an iPad to control the mix of the individual parts. The mix and control screen can be accessed through an iPad using Mira software.
