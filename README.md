@@ -7,3 +7,9 @@ The title of this piece is borrowed from a Jasper Johns painting from 1959. John
 False Start was commissioned by the Icebreaker Ensemble.
 
 NOTE: These scores are based in software. Although they share many similar properties to that of paper based/traditional scoring methods, they also benefit from the usability and functionality of dynamic software environments. The visual information will be familiar to the musician and welcomed by a curious spirit of adventure. Above all, these scores are responsive, evolving as the performance progresses – giving the feeling of being alive – and should be considered as co-operative creative partners.
+
+IMPORTANT - 
+
+1) This score is based in Max/MSP. This must be downloaded and installed prior to operation.
+
+2) some of the folders contain a link to media files stored on Dropbox. These must bve downloaded and placed in each of the folders.
