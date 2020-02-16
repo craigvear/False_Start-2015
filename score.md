@@ -1,9 +1,12 @@
-#Craig Vear
-##False Start For amplified ensemble and networked laptops
+Craig Vear
+
+False Start For amplified ensemble and networked laptops
+
 (2015)
+
 Copyright Craig Vear 2015
 
-##About the piece
+About the piece
 Commissioned by Icebreaker Ensemble
 First performance:
 Instrumentation:
@@ -14,7 +17,7 @@ Audiograft festival, Oxford, UK
 Small ensemble (2 to 5 players) with networked laptops (1 each)
 c. 14’30 minutes
 
-##Programme notes
+Programme notes
 The title of this piece is borrowed from a Jasper Johns painting from 1959. Johns’ works have been a point of inspiration for many decades, due to his abstraction of found materials into artworks that are recognised and appreciated on their own merit. Like Johns' painting, this composition focuses on colour, and the blurred boundary of shape and meaning. It also focuses on play; as in the playful interaction of juxtaposed colour in space and time, and the playful transformation of found material. This reference to the ‘found’, and the ‘being’ of itself, is a central focus of this composition, and like Johns’ works the focus is not on the source materials but on the articulation of those through the artist’s abstraction into something else that is, at all times, the source, the process, the result and the interpretation.
 
 ##Acknowledgements
