@@ -12,4 +12,4 @@ IMPORTANT -
 
 1) This score is based in Max/MSP. This must be downloaded and installed prior to operation.
 
-2) Some of the folders contain a link to media files stored on Dropbox. These must be downloaded first and placed in each of the correspondng folders.
+2) Some of the folders contain a document called 'get_files'. These provide a link to media files stored on Dropbox that are required to operate the score. These must be downloaded first and placed in each of the correspondng folders.
